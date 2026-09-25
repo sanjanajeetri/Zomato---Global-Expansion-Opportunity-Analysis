@@ -11,12 +11,12 @@ Competition-level evaluation
 Data-driven recommendations for expansion
 The final dashboard helps management analyze year-wise, country-wise, and cuisine-wise trends to support strategic decisions.
 
-##👆Objective
+##👆OBJECTIVE
 
 To analyze restaurant trends, customer ratings, competition, cuisines,
 online services and costs to develop recommendations for opening new restaurants.
 
-##🔨Tools Used
+##🔨TOOLS USED
 
 - Microsoft Excel
 - PivotTables
@@ -26,7 +26,7 @@ online services and costs to develop recommendations for opening new restaurants
 - Data Cleaning
 - Data Analysis
 - 
-##⚙️Key Analysis
+##⚙️KEY ANAYSIS
 
 - Restaurant availability by country
 - Restaurant openings by year
@@ -38,18 +38,18 @@ online services and costs to develop recommendations for opening new restaurants
 - Average cost of two by country
 - Cuisine and restaurant distribution
 - 
-##📊Dashboard
+##📊DASHBOARD
 
 The Excel dashboard provides interactive analysis using PivotCharts
 and slicers.
 
-##⭐Business Recommendation
+##⭐BUSINESS RECOMMENDATION
 
 The analysis identifies countries and cuisines that may offer attractive
 opportunities for restaurant expansion based on competition, ratings,
 restaurant presence and cost.
 
-##🚀Key Takeaways
+##🚀KEY TAKEAWAYS
 
 India has the highest restaurant concentration, indicating strong competition.
 Philippines, Indonesia, New Zealand, and Turkey show high ratings with relatively lower competition.
