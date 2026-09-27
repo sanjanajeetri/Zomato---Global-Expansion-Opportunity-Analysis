@@ -25,7 +25,7 @@ online services and costs to develop recommendations for opening new restaurants
 - Conditional Formatting
 - Data Cleaning
 - Data Analysis
-- 
+  
 ##⚙️KEY ANAYSIS
 
 - Restaurant availability by country
@@ -37,7 +37,7 @@ online services and costs to develop recommendations for opening new restaurants
 - Top 10 cuisines
 - Average cost of two by country
 - Cuisine and restaurant distribution
-- 
+  
 ##📊DASHBOARD
 
 The Excel dashboard provides interactive analysis using PivotCharts
